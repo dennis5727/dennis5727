@@ -1,6 +1,6 @@
 <h1 align="left"> Hi there 🤝</h1>
 
-<h2>I am Kyaw Nanda Thu (Ken).</h2>
+<h2>I am Kyaw Nanda Thu.</h2>
 
 A computer science student exploring machine learning and AI models.
 
@@ -33,8 +33,9 @@ I build websites and applications for real-world and social-impact use cases, wi
 
 <table>
   <tr>
-    <td align="center"><a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/><br>PyTorch</a></td>
     <td align="center"><a href="https://pandas.pydata.org/"><img src="https://img.icons8.com/color/512/pandas.png" alt="pandas" width="40" height="40"/><br>Pandas</a></td>
+    <td align="center"><a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/><br>Scikit-learn</a></td>
+    <td align="center"><a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/><br>Matplotlib</a></td>
   </tr>
 </table>
 
